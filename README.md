@@ -4,7 +4,7 @@
 **Position:** Research Assistant, Flatiron Institute  
 **Date:** May 2025
 
-This repository contains a Python script for generating funnel plots from [SymDock](https://www.rosettacommons.org/docs/latest/application_documentation/docking/SymmetricDocking) simulations. The plots compare global and local interface refinement, with each funnel colored by Fnat to assess docking quality.
+This repository contains a Python script for generating funnel plots from SymDock simulations. The plots compare global and local interface refinement, with each funnel colored by Fnat to assess docking quality.
 
 ![Example Funnel Plot](example.png)
 
