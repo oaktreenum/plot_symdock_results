@@ -6,6 +6,8 @@
 
 This repository contains a Python script for generating funnel plots from [SymDock](https://www.rosettacommons.org/docs/latest/application_documentation/docking/SymmetricDocking) simulations. The plots compare global and local interface refinement, with each funnel colored by Fnat to assess docking quality.
 
+![Example Funnel Plot](example.png)
+
 ## Purpose
 
 The goal of this script is to evaluate docking performance by visualizing energy funnels (score vs. RMSD), separated by interface refinement strategy:
